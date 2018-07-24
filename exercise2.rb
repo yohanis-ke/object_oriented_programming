@@ -23,5 +23,4 @@ end
 end
 
  cat=Cat.new("catii","meat",13)
- # cat.initialize
  puts "#{cat.meow}"
